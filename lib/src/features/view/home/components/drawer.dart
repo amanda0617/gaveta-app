@@ -18,16 +18,10 @@ class CustomDrawer extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
           children: [
             DrawerItem(
-              onTap: () {},
-              icon: const Icon(
-                Icons.newspaper,
-                color: Colors.white,
-                size: 32,
-              ),
-              title: 'Notícias',
-            ),
-            DrawerItem(
-              onTap: () {},
+              onTap: () {
+                Navigator.pop(context);
+                Get.toNamed(PagesRoutes.matches);
+              },
               icon: Image.asset('assets/icons/partidas-menu.png'),
               title: 'Partidas',
             ),
@@ -40,7 +34,10 @@ class CustomDrawer extends StatelessWidget {
               title: 'Jogadoras',
             ),
             DrawerItem(
-              onTap: () {},
+              onTap: () {
+                Navigator.pop(context);
+                Get.toNamed(PagesRoutes.statistics);
+              },
               icon: Image.asset('assets/icons/estatistica-menu.png'),
               title: 'Estatística',
             ),
