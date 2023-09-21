@@ -45,7 +45,10 @@ class CustomDrawer extends StatelessWidget {
               title: 'Estatística',
             ),
             DrawerItem(
-              onTap: () {},
+              onTap: () {
+                Navigator.pop(context);
+                Get.toNamed(PagesRoutes.placing);
+              },
               icon: Image.asset('assets/icons/classificacao-menu.png'),
               title: 'Classificação',
             ),

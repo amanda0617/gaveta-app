@@ -60,9 +60,29 @@ class AppData {
 
   static const clubs = [
     {
+      'id': 1,
       'name': 'Corinthians Paulista',
       'state': 'SP',
-      'icon' : 'https://w7.pngwing.com/pngs/571/282/png-transparent-sport-club-corinthians-paulista-corinthian-f-c-campeonato-paulista-corinthians-arena-2013-copa-libertadores-football-emblem-logo-sports.png',
+      'icon':
+          'https://w7.pngwing.com/pngs/571/282/png-transparent-sport-club-corinthians-paulista-corinthian-f-c-campeonato-paulista-corinthians-arena-2013-copa-libertadores-football-emblem-logo-sports.png',
+      'status': {
+        'place': 2,
+        'pts': 37,
+        'pj': 15,
+        'vit': 12,
+        'e': 1,
+        'der': 2,
+        'gm': 45,
+        'gc': 13,
+        'sg': 32,
+        'lasts': [
+          true,
+          true,
+          true,
+          false,
+          true,
+        ]
+      },
       'players': [
         {
           'id': 1,
@@ -133,9 +153,29 @@ class AppData {
       ]
     },
     {
+      'id': 2,
       'name': 'Palmeiras',
       'state': 'SP',
-      'icon' : 'https://w7.pngwing.com/pngs/177/904/png-transparent-sociedade-esportiva-palmeiras-campeonato-paulista-copa-do-brasil-choque-rei-paulista-derby-futebol-brasil-emblem-sport-logo.png',
+      'icon':
+          'https://w7.pngwing.com/pngs/177/904/png-transparent-sociedade-esportiva-palmeiras-campeonato-paulista-copa-do-brasil-choque-rei-paulista-derby-futebol-brasil-emblem-sport-logo.png',
+      'status': {
+        'place': 1,
+        'pts': 37,
+        'pj': 15,
+        'vit': 12,
+        'e': 1,
+        'der': 2,
+        'gm': 45,
+        'gc': 13,
+        'sg': 32,
+        'lasts': [
+          true,
+          true,
+          true,
+          false,
+          true,
+        ]
+      },
       'players': [
         {
           'id': 1,

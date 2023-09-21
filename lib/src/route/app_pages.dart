@@ -2,6 +2,7 @@ import 'package:get/get.dart';
 
 import '../features/view/home/home_page.dart';
 import '../features/view/initial/initial_page.dart';
+import '../features/view/placing/placing_page.dart';
 import '../features/view/players/players_page.dart';
 import '../features/view/splash/splash_page.dart';
 
@@ -11,7 +12,7 @@ abstract class AppPages {
   static final pages = <GetPage>[
     GetPage(
       name: PagesRoutes.baseRoute,
-      page: () =>  HomePage(),
+      page: () => HomePage(),
     ),
     GetPage(
       name: PagesRoutes.splashRoute,
@@ -28,6 +29,11 @@ abstract class AppPages {
       page: () => const PlayersPage(),
       transition: _transition,
     ),
+    GetPage(
+      name: PagesRoutes.placing,
+      page: () => const PlacingPage(),
+      transition: _transition,
+    ),
   ];
 }
 
@@ -36,4 +42,5 @@ abstract class PagesRoutes {
   static const String splashRoute = '/splash';
   static const String initialRoute = '/initial';
   static const String players = '/players';
+  static const String placing = '/placing';
 }
