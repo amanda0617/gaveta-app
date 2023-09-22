@@ -55,6 +55,62 @@ class AppData {
           'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
       'content':
           'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://imagens.ebc.com.br/y2dwJ3xYDJ8FsKxt40G3Sll_DVY=/1170x700/smart/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/52251624747_77e1b3f2f2_k.jpg?itok=lqypa3Gr',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/08/01/400023614-53078981541405dc573f2o-2048x1365.jpg',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://lncimg.lance.com.br/cdn-cgi/image/width=3840,quality=75,format=webp/uploads/2023/08/53087855917_7f7744ff1d_o-scaled-aspect-ratio-512-320-2.jpg',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://www.estadao.com.br/resizer/G0ixFNOexqFyFfybG67h24dsNcA=/380x0/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/estadao/B6BP275JGBBANE4QSXMCHRTTVY.jpg',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://lncimg.lance.com.br/cdn-cgi/image/width=3840,quality=75,format=webp/uploads/2022/02/13/6209339fea7cf.jpeg',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://www.meioemensagem.com.br/wp-content/uploads/2022/01/futebol-feminino-thumb.jpg',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
+    },
+    {
+      'mainImg':
+          'https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt40398bb47232514a/63acd03ab6f2166a77aaa40b/Foto_-_Brasil_comemora%C3%A7%C3%A3o.jpg?auto=webp&format=pjpg&width=3840&quality=60',
+      'title':
+          'Seleção feminina irá enfrentar a África do Sul na próxima data fifa',
+      'content':
+          'A seleção feminina irá enfrentar a África do Sul na próxima data Fifa, que ocorre de 29 de agpstp a 6 de sete,nrp.Serão duas partidas: uma em Joanesburgo e outra em cidade do país rival ainda a definir'
     }
   ];
 
