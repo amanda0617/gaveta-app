@@ -114,6 +114,55 @@ class AppData {
     }
   ];
 
+  static const matches = [
+    {
+      'home': {
+        'id': 1,
+        'name': 'Corinthians Paulista',
+        'state': 'SP',
+        'score': 2,
+        'icon':
+            'https://w7.pngwing.com/pngs/571/282/png-transparent-sport-club-corinthians-paulista-corinthian-f-c-campeonato-paulista-corinthians-arena-2013-copa-libertadores-football-emblem-logo-sports.png',
+        'won': true,
+      },
+      'visitant': {
+        'id': 2,
+        'name': 'Palmeiras',
+        'state': 'SP',
+        'score': 1,
+        'icon':
+            'https://w7.pngwing.com/pngs/177/904/png-transparent-sociedade-esportiva-palmeiras-campeonato-paulista-copa-do-brasil-choque-rei-paulista-derby-futebol-brasil-emblem-sport-logo.png',
+        'won': false,
+      },
+      'finish': true,
+      'winner': 'home',
+      'date': '2023-08-15T05:01:31Z',
+    },
+    {
+      'home': {
+        'id': 1,
+        'name': 'Corinthians Paulista',
+        'state': 'SP',
+        'score': 2,
+        'icon':
+            'https://w7.pngwing.com/pngs/571/282/png-transparent-sport-club-corinthians-paulista-corinthian-f-c-campeonato-paulista-corinthians-arena-2013-copa-libertadores-football-emblem-logo-sports.png',
+        'won': false,
+      },
+      'visitant': {
+        'id': 2,
+        'name': 'Palmeiras',
+        'state': 'SP',
+        'score': 3,
+        'icon':
+            'https://w7.pngwing.com/pngs/177/904/png-transparent-sociedade-esportiva-palmeiras-campeonato-paulista-copa-do-brasil-choque-rei-paulista-derby-futebol-brasil-emblem-sport-logo.png',
+        'won': true,
+      },
+      'finish': true,
+      'winner': 'visitant',
+      'date': '2023-11-15T17:30:00Z',
+    },
+  ];
+
   static const clubs = [
     {
       'id': 1,
