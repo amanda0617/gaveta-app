@@ -83,10 +83,10 @@ class StatusPoint extends StatelessWidget {
   final String title;
   final int score;
   const StatusPoint({
-    Key? key,
+    super.key,
     required this.title,
     required this.score,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {

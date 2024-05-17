@@ -1,5 +1,6 @@
 import 'package:get/get.dart';
 
+import '../features/controllers/home/home_binding.dart';
 import '../features/view/home/home_page.dart';
 import '../features/view/initial/initial_page.dart';
 import '../features/view/matches/matches_page.dart';
@@ -13,9 +14,11 @@ const Transition _transition = Transition.rightToLeft;
 abstract class AppPages {
   static final pages = <GetPage>[
     GetPage(
-        name: PagesRoutes.baseRoute,
-        page: () => HomePage(),
-        transition: Transition.fadeIn),
+      name: PagesRoutes.baseRoute,
+      page: () => HomePage(),
+      transition: Transition.fadeIn,
+      binding: HomeBinding(),
+    ),
     GetPage(
       name: PagesRoutes.splashRoute,
       page: () => const SplashPage(),

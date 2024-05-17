@@ -48,8 +48,7 @@ class ClubModel {
       'state': state,
       'icon': icon,
       'status': status?.toMap(),
-      'players':
-          players != null ? players!.map((x) => x.toMap()).toList() : null,
+      'players': players?.map((x) => x.toMap()).toList(),
     };
   }
 

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "768496068145",
+    "firebase_url": "https://app-gaveta-default-rtdb.firebaseio.com",
+    "project_id": "app-gaveta",
+    "storage_bucket": "app-gaveta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768496068145:android:14105ef0a9c269bca91710",
+        "android_client_info": {
+          "package_name": "br.com.gaveta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5EY65o8SiBSAh0il2CcfrrL-O3xotUqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
